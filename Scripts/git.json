@@ -1,6 +1,6 @@
 [
     {
-        "p_rel_url" : "Sahilsm07/raw-data/blob/main/tmp/AdventureWorks_Product_Categories.csv",
+        "p_rel_url" : "sahilsm07/raw-data/blob/main/tmp/AdventureWorks_Product_Categories.csv",
         "p_sink_folder" : "AdventureWorks_Product_Categories",
         "p_sink_file" : "AdventureWorks_Product_Categories.csv"
     },
